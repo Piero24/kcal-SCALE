@@ -90,6 +90,7 @@
 cat. food 0 - vegetables and fresh vegetables
 code description Kcal
 
+
 <table>
   <tr>
     <th>Code</th>
@@ -98,20 +99,52 @@ code description Kcal
   </tr>
   <tr>
     <td>0</td>
-    <td>1</td> 
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>carrots and leeks</td> 
     <td></td>
   </tr>
   <tr>
+    <td>1</td>
+    <td>onions and cabbage</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>green beans and cabbage</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>mushrooms</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>aubergines, artichokes, pumpkin</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>potatoes and legumes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>peppers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>tomatoes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>salad, fennel and celery</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>zucchini and cucumbers</td>
     <td></td>
   </tr>
 </table>
