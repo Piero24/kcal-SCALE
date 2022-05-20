@@ -29,29 +29,16 @@
 <br/>
 
 <p align="center">
-  <img src="https://findicons.com/files/icons/2779/simple_icons/512/apple_512_black.png" width="100" height="100">
+  <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/png_scales.png" width="100" height="100">
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">kcal-SCALE</a>
+    <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
 </h1>
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</p>
--->
 
 > *<p align="center">This file contains an example in Italian on how to write a readme.md file for **Github!** <br/> It is a good idea to use the Markdown format syntax correctly to highlight the commands to be launched or particular blocks of code, for more for information see how to create and underline code blocks.*
 <p align="center">
     An awesome README template to jumpstart your projects!
-    <br/>
-    <a href="#documentation"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    🇮🇹  
-    <a href="https://github.com/Piero24/Template-README/blob/main/README.md"><strong>Italian</strong></a> 
-    version
     <br/>
     <br/>
     <a href="https://github.com/Piero24/Template-README">View Demo</a>
@@ -104,9 +91,6 @@
 
 <p align="center">
   <h4 align="center">
-    <a href="#documentation">Documentation</a>
-  </h4>
-  <h4 align="center">
     <a href="#prerequisites">Prerequisites</a>
   </h4>
   <h4 align="center">
@@ -117,9 +101,6 @@
   </h4>
   <h4 align="center">
     <a href="#roadmap">Roadmap</a>
-  </h4>
-  <h4 align="center">
-    <a href="#community">Community</a>
   </h4>
   <h4 align="center">
     <a href="#responsible-disclosure">Responsible Disclosure</a>
@@ -136,23 +117,6 @@
   <h4 align="center">
     <a href="#third-party-licenses">Third Party Licenses</a>
   </h4>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="documentation" align="center"><br/><br/>📚  Documentation  📚</h2>
-
-<p align="center">
-  Including pieces of documentation will allow you to better understand what the program does.
-  <br/>
-  At this point it is best to write only short portions.
-  <br/>
-  <br/>
-  For a broader view it is better to refer the user to the documentation via links.
-  <br/>
-  <a href="https://shields.io/">Documentation »</a>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -314,35 +278,6 @@
 
 See the [open issues](https://github.com/Piero24/Template-README/issues) for a full list of proposed features (and known issues).
 
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="community" align="center"><br/><br/>🌍  Community  🌍</h2>
-
-<p align="center">
-  There are 3 groups concerning this project.
-  <br/>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" align="center">
-  <a href="https://telegram.org"><strong>Telegram Channel</strong></a>
-  <br/>
-  <br/>
-  <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="20" height="20" align="center">
-  <a href="https://slack.com"><strong>Slack Channel</strong></a>
-  <br/>
-  <br/>
-  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="20" height="20" align="center">
-  <a href="https://discord.com"><strong>Discord Channel</strong></a>
-  <br/>
-  <br/>
-  In these groups it is possible to discuss everything related to the project and have support for any problems in its use.
-  <br/>
-  For the problems we inform you that you have to open a case here before talking about it in the channels.
-  <br/>
-  <br/>
-</p>
-  
 <p align="right"><a href="#top">⇧</a></p>
 
 
