@@ -1,15 +1,15 @@
 <div id="top"></div>
 
 <!-- BADGE -->
-[![](https://img.shields.io/github/release-date/piero24/Template-README)]()
-[![](https://img.shields.io/github/last-commit/piero24/Template-README)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/Template-README)
-<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/Template-README) -->
-[![](https://img.shields.io/github/issues/piero24/Template-README)]()
-[![](https://img.shields.io/github/issues-pr/piero24/Template-README)]()
-[![](https://img.shields.io/github/downloads/piero24/Template-README/total)]()
+[![](https://img.shields.io/github/release-date/piero24/kcal-SCALE)]()
+[![](https://img.shields.io/github/last-commit/piero24/kcal-SCALE)]()
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/kcal-SCALE)
+<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/kcal-SCALE) -->
+[![](https://img.shields.io/github/issues/piero24/kcal-SCALE)]()
+[![](https://img.shields.io/github/issues-pr/piero24/kcal-SCALE)]()
+[![](https://img.shields.io/github/downloads/piero24/kcal-SCALE/total)]()
 
-[![](https://img.shields.io/github/license/piero24/Template-README)]()
+[![](https://img.shields.io/github/license/piero24/kcal-SCALE)]()
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
@@ -36,16 +36,19 @@
     <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
 </h1>
 
-> *<p align="center">This file contains an example in Italian on how to write a readme.md file for **Github!** <br/> It is a good idea to use the Markdown format syntax correctly to highlight the commands to be launched or particular blocks of code, for more for information see how to create and underline code blocks.*
+> *<p align="center">A scale that, in addition to displaying the weight, also calculates also the number of kilocalories of the product it has on dish across an internal table, for then display them on a 4-line by 20-character display.*
+  
 <p align="center">
-    An awesome README template to jumpstart your projects!
+    The Index for this project is available here
+    <br/>
+    <a href="#index"><strong>Explore the Index »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Piero24/Template-README">View Demo</a>
+    <a href="https://github.com/Piero24/kcal-SCALE">View Demo</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Report Bug</a>
+    <a href="https://github.com/Piero24/kcal-SCALE/issues">Report Bug</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Request Feature</a>
+    <a href="https://github.com/Piero24/kcal-SCALE/issues">Request Feature</a>
   </p>
 
 
@@ -76,11 +79,11 @@
   Leave any add-ons / plug-ins for the thanks section.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README">Programming Language 1</a>
+  <a href="https://github.com/Piero24/kcal-SCALE">Programming Language 1</a>
   •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 2</a>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues">Programming Language 2</a>
   •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 3</a>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues">Programming Language 3</a>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -276,7 +279,7 @@
 - [ ] Point 2
 - [ ] Point 3
 
-See the [open issues](https://github.com/Piero24/Template-README/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#top">⇧</a></p>
 
@@ -313,7 +316,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   <br/>
   The complete version of the code of conduct can be viewed at the following link:
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
+  <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
 </p>
 
 
@@ -332,7 +335,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   <br/>
   it is strongly recommended to use the 
   <br/>
-  <a href="https://github.com/Piero24/Template-README/issues"><strong>ISSUES tool from Github »</strong></a>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues"><strong>ISSUES tool from Github »</strong></a>
   <br/>
   <br/>
   Here you may already find the answer to the problem you have encountered,
@@ -388,7 +391,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   and implementations that took place in the various program reviews.
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
+  <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
   <br/>
 </p>
 
@@ -460,7 +463,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   <i>software and other kinds of works.</i>
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>License Documentation »</strong></a>
+  <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>License Documentation »</strong></a>
   <br/>
 </p>
 
@@ -485,7 +488,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
   🗄:
-  <a href="https://github.com/Piero24/Template-README">Project Title</a>
+  <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
   <br/>
   <br/>
   <br/>
@@ -505,7 +508,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   <br/>
   To find out more, visit my 
   <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>website »</strong></a>
+  <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
   <br/>
   <br/>
   The license of this repo as indicated in the 
@@ -514,7 +517,7 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
   GNU General Public License v3.0
   <br/>
   For more details visit the 
-  <a href="https://github.com/Piero24/Template-README/blob/main/LICENSE"><strong>licensing page »</strong></a>
+  <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>licensing page »</strong></a>
   <br/>
   <br/>
   <strong>The Copyright (C) of this project is held exclusively by my person.</strong>
