@@ -116,7 +116,7 @@
   Obviously the language used is that of
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/kcal-SCALE/issues">Arduino</a>
+  <a href="https://www.arduino.cc">Arduino</a>
   <br/>
 </p>
 
