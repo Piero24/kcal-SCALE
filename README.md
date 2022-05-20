@@ -95,8 +95,9 @@
 cat. food 0 - vegetables and fresh vegetables code description Kcal
 
 
-<div><table>
-  <tr align="center">
+<div style="overflow: hidden; display: inline-block;">
+  <table>
+    <tr align="center">
     <th>Code</th>
     <th>Description</th> 
     <th>Kcal</th>
@@ -151,7 +152,7 @@ cat. food 0 - vegetables and fresh vegetables code description Kcal
     <td>zucchini and cucumbers</td>
     <td>14</td>
   </tr>
-</table>
+  </table>
 <table>
   <tr align="center">
     <th>Code</th>
@@ -208,7 +209,7 @@ cat. food 0 - vegetables and fresh vegetables code description Kcal
     <td>zucchini and cucumbers</td>
     <td>14</td>
   </tr>
-</table>
+  </table>
 </div>
 
 
