@@ -60,15 +60,61 @@
 <h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
           
 <p align="center">
-  This section contains a series of information on how to use the code such as the prerequisites, the dev tools to use etc.
+  The balance allows you to weigh the calories of an entire recipe by adding the weights of the calories of each individual ingredient.
+  <br/>
+  The project was carried out with the following components:
+  <br/>
+  <ul>
+    <li>Arduino Mega 2560</li>
+    <li>Weight sensor</li>
+    <li>Numeric keypad (16-key)</li>
+    <li>Display 2004</li>
+  </ul>
   <br/>
   <br/>
+  Attention: the size of the product table is such as to make it prohibitive to use with Arduino Uno.
   <br/>
-  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+  This project can only be replicated if you have a higher power board, such as the arduino mega 2560, 
+  <br/>
+  which has 256k of memory instead of the 32k of the Arduino uno.
+  <br/>
+  <br/>
+  Currently the supported ingredients are as follows:
+  <br/>
+  Food and calorie table for 100 grams
+  <br/>
   <br/>
   <br/>
 </p>
 
+cat. food 0 - vegetables and fresh vegetables
+code description Kcal
+
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Description</th> 
+    <th>Kcal</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td> 
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 <h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
