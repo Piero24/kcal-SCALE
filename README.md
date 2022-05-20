@@ -95,8 +95,8 @@
 cat. food 0 - vegetables and fresh vegetables code description Kcal
 
 
-<div style="overflow: hidden; display: inline-block;">
-  <table>
+<div>
+  <table style="overflow: hidden; display: inline-block;">
     <tr align="center">
     <th>Code</th>
     <th>Description</th> 
@@ -153,7 +153,7 @@ cat. food 0 - vegetables and fresh vegetables code description Kcal
     <td>14</td>
   </tr>
   </table>
-<table>
+<table style="overflow: hidden; display: inline-block;">
   <tr align="center">
     <th>Code</th>
     <th>Description</th> 
