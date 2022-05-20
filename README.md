@@ -65,11 +65,12 @@
   The project was carried out with the following components:
   <br/>
 </p>
+
 <ul align="center">
-  <li>Arduino Mega 2560</li>
-  <li>Weight sensor</li>
-  <li>Numeric keypad (16-key)</li>
-  <li>Display 2004</li>
+  <li><a href="https://github.com/Piero24/kcal-SCALE">Arduino Mega 2560</a></li>
+  <li><a href="https://github.com/Piero24/kcal-SCALE">Weight sensor</a></li>
+  <li><a href="https://github.com/Piero24/kcal-SCALE">Numeric keypad</a> (16-key)</li>
+  <li><a href="https://github.com/Piero24/kcal-SCALE">Display 2004</a></li>
 </ul>
 
 <p align="center">
@@ -87,145 +88,30 @@
   <br/>
   Currently the supported ingredients are as follows:
   <br/>
-  <strong>Food and calorie table for 100 grams</strong>
-  <br/>
   <br/>
 </p>
 
-cat. food 0 - vegetables and fresh vegetables code description Kcal
 
-
-<div>
-  <table style="overflow: hidden; display: inline-block;">
-    <tr align="center">
-    <th>Code</th>
-    <th>Description</th> 
-    <th>Kcal</th>
-  </tr>
-  <tr align="center">
-    <td>0</td>
-    <td>carrots and leeks</td> 
-    <td>32</td>
-  </tr>
-  <tr align="center">
-    <td>1</td>
-    <td>onions and cabbage</td>
-    <td>25</td>
-  </tr>
-  <tr align="center">
-    <td>2</td>
-    <td>green beans and cabbage</td>
-    <td>20</td>
-  </tr>
-  <tr align="center">
-    <td>3</td>
-    <td>mushrooms</td>
-    <td>23</td>
-  </tr>
-  <tr align="center">
-    <td>4</td>
-    <td>aubergines, artichokes, pumpkin</td>
-    <td>18</td>
-  </tr>
-  <tr align="center">
-    <td>5</td>
-    <td>potatoes and legumes</td>
-    <td>80</td>
-  </tr>
-  <tr align="center">
-    <td>6</td>
-    <td>peppers</td>
-    <td>22</td>
-  </tr>
-  <tr align="center">
-    <td>7</td>
-    <td>tomatoes</td>
-    <td>19</td>
-  </tr>
-  <tr align="center">
-    <td>8</td>
-    <td>salad, fennel and celery</td>
-    <td>15</td>
-  </tr>
-  <tr align="center">
-    <td>9</td>
-    <td>zucchini and cucumbers</td>
-    <td>14</td>
-  </tr>
-  </table>
-<table style="overflow: hidden; display: inline-block;">
-  <tr align="center">
-    <th>Code</th>
-    <th>Description</th> 
-    <th>Kcal</th>
-  </tr>
-  <tr align="center">
-    <td>0</td>
-    <td>carrots and leeks</td> 
-    <td>32</td>
-  </tr>
-  <tr align="center">
-    <td>1</td>
-    <td>onions and cabbage</td>
-    <td>25</td>
-  </tr>
-  <tr align="center">
-    <td>2</td>
-    <td>green beans and cabbage</td>
-    <td>20</td>
-  </tr>
-  <tr align="center">
-    <td>3</td>
-    <td>mushrooms</td>
-    <td>23</td>
-  </tr>
-  <tr align="center">
-    <td>4</td>
-    <td>aubergines, artichokes, pumpkin</td>
-    <td>18</td>
-  </tr>
-  <tr align="center">
-    <td>5</td>
-    <td>potatoes and legumes</td>
-    <td>80</td>
-  </tr>
-  <tr align="center">
-    <td>6</td>
-    <td>peppers</td>
-    <td>22</td>
-  </tr>
-  <tr align="center">
-    <td>7</td>
-    <td>tomatoes</td>
-    <td>19</td>
-  </tr>
-  <tr align="center">
-    <td>8</td>
-    <td>salad, fennel and celery</td>
-    <td>15</td>
-  </tr>
-  <tr align="center">
-    <td>9</td>
-    <td>zucchini and cucumbers</td>
-    <td>14</td>
-  </tr>
-  </table>
-</div>
 
 
 <h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
   
 <p align="center">
-  This section should list all the major frameworks / libraries used to start your project.
-  <br/>
-  Leave any add-ons / plug-ins for the thanks section.
+  To carry out this project 3 libraries were used
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/kcal-SCALE">Programming Language 1</a>
+  <a href="https://github.com/Piero24/kcal-SCALE">Scale</a>
   •
-  <a href="https://github.com/Piero24/kcal-SCALE/issues">Programming Language 2</a>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues">Keypad</a>
   •
-  <a href="https://github.com/Piero24/kcal-SCALE/issues">Programming Language 3</a>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues">Display</a>
+  <br/>
+  <br/>
+  Obviously the language used is that of
+  <br/>
+  <br/>
+  <a href="https://github.com/Piero24/kcal-SCALE/issues">Arduino</a>
+  <br/>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
