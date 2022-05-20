@@ -95,6 +95,63 @@
 cat. food 0 - vegetables and fresh vegetables code description Kcal
 
 
+<div><table>
+  <tr align="center">
+    <th>Code</th>
+    <th>Description</th> 
+    <th>Kcal</th>
+  </tr>
+  <tr align="center">
+    <td>0</td>
+    <td>carrots and leeks</td> 
+    <td>32</td>
+  </tr>
+  <tr align="center">
+    <td>1</td>
+    <td>onions and cabbage</td>
+    <td>25</td>
+  </tr>
+  <tr align="center">
+    <td>2</td>
+    <td>green beans and cabbage</td>
+    <td>20</td>
+  </tr>
+  <tr align="center">
+    <td>3</td>
+    <td>mushrooms</td>
+    <td>23</td>
+  </tr>
+  <tr align="center">
+    <td>4</td>
+    <td>aubergines, artichokes, pumpkin</td>
+    <td>18</td>
+  </tr>
+  <tr align="center">
+    <td>5</td>
+    <td>potatoes and legumes</td>
+    <td>80</td>
+  </tr>
+  <tr align="center">
+    <td>6</td>
+    <td>peppers</td>
+    <td>22</td>
+  </tr>
+  <tr align="center">
+    <td>7</td>
+    <td>tomatoes</td>
+    <td>19</td>
+  </tr>
+  <tr align="center">
+    <td>8</td>
+    <td>salad, fennel and celery</td>
+    <td>15</td>
+  </tr>
+  <tr align="center">
+    <td>9</td>
+    <td>zucchini and cucumbers</td>
+    <td>14</td>
+  </tr>
+</table>
 <table>
   <tr align="center">
     <th>Code</th>
@@ -136,7 +193,7 @@ cat. food 0 - vegetables and fresh vegetables code description Kcal
     <td>peppers</td>
     <td>22</td>
   </tr>
-  <tralign="center">
+  <tr align="center">
     <td>7</td>
     <td>tomatoes</td>
     <td>19</td>
@@ -152,6 +209,7 @@ cat. food 0 - vegetables and fresh vegetables code description Kcal
     <td>14</td>
   </tr>
 </table>
+</div>
 
 
 <h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
