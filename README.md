@@ -33,7 +33,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">PROJECT TITLE</a>
+    <a href="https://github.com/Piero24/Template-README">kcal-SCALE</a>
 </h1>
 
 <!--
