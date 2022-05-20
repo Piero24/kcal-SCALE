@@ -100,52 +100,52 @@ code description Kcal
   <tr>
     <td>0</td>
     <td>carrots and leeks</td> 
-    <td></td>
+    <td>32</td>
   </tr>
   <tr>
     <td>1</td>
     <td>onions and cabbage</td>
-    <td></td>
+    <td>25</td>
   </tr>
   <tr>
     <td>2</td>
     <td>green beans and cabbage</td>
-    <td></td>
+    <td>20</td>
   </tr>
   <tr>
     <td>3</td>
     <td>mushrooms</td>
-    <td></td>
+    <td>23</td>
   </tr>
   <tr>
     <td>4</td>
     <td>aubergines, artichokes, pumpkin</td>
-    <td></td>
+    <td>18</td>
   </tr>
   <tr>
     <td>5</td>
     <td>potatoes and legumes</td>
-    <td></td>
+    <td>80</td>
   </tr>
   <tr>
     <td>6</td>
     <td>peppers</td>
-    <td></td>
+    <td>22</td>
   </tr>
   <tr>
     <td>7</td>
     <td>tomatoes</td>
-    <td></td>
+    <td>19</td>
   </tr>
   <tr>
     <td>8</td>
     <td>salad, fennel and celery</td>
-    <td></td>
+    <td>15</td>
   </tr>
   <tr>
     <td>9</td>
     <td>zucchini and cucumbers</td>
-    <td></td>
+    <td>14</td>
   </tr>
 </table>
 
