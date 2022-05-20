@@ -75,7 +75,7 @@
 <p align="center">
   <br/>
   <br/>
-  <strong>Attention</strong>
+  <strong>ATTENTION</strong>
   <br/>
   the size of the product table is such as to make it prohibitive to use with Arduino Uno.
   <br/>
@@ -92,62 +92,61 @@
   <br/>
 </p>
 
-cat. food 0 - vegetables and fresh vegetables
-code description Kcal
+cat. food 0 - vegetables and fresh vegetables code description Kcal
 
 
 <table>
-  <tr>
+  <tr align="center">
     <th>Code</th>
     <th>Description</th> 
     <th>Kcal</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>0</td>
     <td>carrots and leeks</td> 
     <td>32</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1</td>
     <td>onions and cabbage</td>
     <td>25</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>2</td>
     <td>green beans and cabbage</td>
     <td>20</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>3</td>
     <td>mushrooms</td>
     <td>23</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>4</td>
     <td>aubergines, artichokes, pumpkin</td>
     <td>18</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>5</td>
     <td>potatoes and legumes</td>
     <td>80</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>6</td>
     <td>peppers</td>
     <td>22</td>
   </tr>
-  <tr>
+  <tralign="center">
     <td>7</td>
     <td>tomatoes</td>
     <td>19</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>8</td>
     <td>salad, fennel and celery</td>
     <td>15</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>9</td>
     <td>zucchini and cucumbers</td>
     <td>14</td>
