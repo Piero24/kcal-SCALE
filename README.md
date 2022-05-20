@@ -64,12 +64,15 @@
   <br/>
   The project was carried out with the following components:
   <br/>
-  <ul>
-    <li>Arduino Mega 2560</li>
-    <li>Weight sensor</li>
-    <li>Numeric keypad (16-key)</li>
-    <li>Display 2004</li>
-  </ul>
+</p>
+<ul align="center">
+  <li>Arduino Mega 2560</li>
+  <li>Weight sensor</li>
+  <li>Numeric keypad (16-key)</li>
+  <li>Display 2004</li>
+</ul>
+
+<p align="center">
   <br/>
   <br/>
   Attention: the size of the product table is such as to make it prohibitive to use with Arduino Uno.
