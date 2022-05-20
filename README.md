@@ -75,17 +75,19 @@
 <p align="center">
   <br/>
   <br/>
-  Attention: the size of the product table is such as to make it prohibitive to use with Arduino Uno.
+  <strong>Attention</strong>
+  <br/>
+  the size of the product table is such as to make it prohibitive to use with Arduino Uno.
   <br/>
   This project can only be replicated if you have a higher power board, such as the arduino mega 2560, 
   <br/>
   which has 256k of memory instead of the 32k of the Arduino uno.
   <br/>
   <br/>
+  <br/>
   Currently the supported ingredients are as follows:
   <br/>
-  Food and calorie table for 100 grams
-  <br/>
+  <strong>Food and calorie table for 100 grams</strong>
   <br/>
   <br/>
 </p>
