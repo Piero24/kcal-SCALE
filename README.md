@@ -77,7 +77,7 @@
 <p align="center">
   <br/>
   <br/>
-  <strong>You can find other recommended components and cheaper versions recommended </strong>
+  <strong>You can find other recommended components, cheaper versions and for your region</strong>
   <br/>
   <a href="https://amzn.to/3yMvIJ1">here  »</a>
   <br/>
