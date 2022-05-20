@@ -64,16 +64,21 @@
   <br/>
   The project was carried out with the following components:
   <br/>
+  <br/>
 </p>
 
 <ul align="center">
-  <li><a href="https://github.com/Piero24/kcal-SCALE">Arduino Mega 2560</a></li>
-  <li><a href="https://github.com/Piero24/kcal-SCALE">Weight sensor</a></li>
-  <li><a href="https://github.com/Piero24/kcal-SCALE">Numeric keypad</a> (16-key)</li>
-  <li><a href="https://github.com/Piero24/kcal-SCALE">Display 2004</a></li>
+  <li><a href="https://amzn.to/3G95Vg4">Arduino Mega 2560</a></li>
+  <li><a href="https://amzn.to/3wIDXmX">Weight sensor</a></li>
+  <li><a href="https://amzn.to/3wzVfDG">Numeric keypad</a> (16-key)</li>
+  <li><a href="https://amzn.to/3yMvIJ1">Display 2004</a></li>
 </ul>
 
 <p align="center">
+  <br/>
+  You can find other recommended components and cheaper versions recommended 
+  <br/>
+  <a href="https://amzn.to/3yMvIJ1">here  »</a>
   <br/>
   <br/>
   <strong>ATTENTION</strong>
