@@ -441,6 +441,59 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 </div>
 
 
+<div>
+  <h2 id="third-party-licenses" align="center"><br/>📌  Recommended components  📌</h2>
+  This is a list of the components suggested for the realization of the project.
+  <br/>
+  <br/>
+  <strong>List of components:</strong>
+  <br/>
+  <table align="center">
+    <tr  align="center">
+      <th>Italy</th>
+      <th>Flag</th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3luUYf6">Arduino Mega 2560</a></th>
+      <th>(Raccomanded)</th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3wGjnnc">Arduino Mega 2560 REV3</a></th>
+      <th></th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3LCEz2X">ELEGOO Mega R3</a></th>
+      <th></th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3a3fmRZ">Weight sensor</a></th>
+      <th>(Raccomanded)</th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3MCLLxg">Weight sensor</a></th>
+      <th></th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3luViL1">Keypad</a></th>
+      <th></th> 
+    </tr>
+    <tr  align="center">
+      <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD Module </a></th>
+      <th></th> 
+    </tr>
+    <tr  align="center">
+      <th>Pruduct</th>
+      <th>Note</th> 
+    </tr>
+    <tr  align="center">
+      <th>Pruduct</th>
+      <th>Note</th> 
+    </tr>
+    
+  </table>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
+
 ---
 <br/>
 
