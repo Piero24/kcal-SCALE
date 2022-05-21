@@ -69,19 +69,12 @@
   </ul>
   <br/>
   <br/>
-  <strong>You can find other recommended components, cheaper versions and for your region</strong>
-  <br/>
-  <a href="https://amzn.to/3yMvIJ1">here  »</a>
+  <strong>You can find other recommended components, cheaper versions and for your region<a href="https://amzn.to/3yMvIJ1">here  »</strong></a>
   <br/>
   <br/>
   <strong>ATTENTION</strong>
   <br/>
-  the size of the product table is such as to make it prohibitive to use with Arduino Uno.
-  <br/>
-  This project can only be replicated if you have a higher power board, such as the arduino mega 2560, 
-  <br/>
-  which has 256k of memory instead of the 32k of the Arduino uno.
-  <br/>
+  the size of the product table is such as to make it prohibitive to use with Arduino Uno. This project can only be replicated if you have a higher power board, such as the arduino mega 2560, which has 256k of memory instead of the 32k of the Arduino uno.
   <br/>
   <br/>
   Currently the supported ingredients are as follows:
