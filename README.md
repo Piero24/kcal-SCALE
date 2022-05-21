@@ -360,6 +360,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
  <h2 id="license" align="center"><br/><br/><br/>🔍  License  🔍</h2>
   The licensing section is divided into:
   <br/>
+  <br/>
   <ul>
     <li><a href="#general-license">General License</a></li>
     <br/>
@@ -388,7 +389,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <h3 id="authors-and-copyright" align="center"><br/>✏️  Authors and Copyright  ✏️</h3>
   👨🏽‍💻: <strong>Pietrobon Andrea</strong>
   <br/>
-  🌐: <a href="https://www.pietrobonandrea.com">www.pietrobonandrea.com</a>
+  🌐: <a href="https://www.pietrobonandrea.com">pietrobonandrea.com</a>
   <br/>
   <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" align="center">:
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
