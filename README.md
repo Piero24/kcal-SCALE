@@ -106,11 +106,11 @@
   To carry out this project 3 libraries were used
   <br/>
   <br/>
-  <a href="https://github.com/Piero24/kcal-SCALE">Scale</a>
+  <a href="TO ADD">Scale</a>
   •
-  <a href="https://github.com/Piero24/kcal-SCALE/issues">Keypad</a>
+  <a href="TO ADD">Keypad</a>
   •
-  <a href="https://github.com/Piero24/kcal-SCALE/issues">Display</a>
+  <a href="TO ADD">Display</a>
   <br/>
   <br/>
   Obviously the language used is that of
@@ -162,7 +162,13 @@
 
 <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
 
-<p align="center">
+<p align="center"
+  <ol>
+  <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
+  <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
+  <li>Download the latest version of these package</li>
+  <li>Milk</li>
+</ol>
   This is an example of how to list the things needed to use the software and how to install them.
   
   ```
