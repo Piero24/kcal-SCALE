@@ -338,16 +338,10 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 
  <div> 
   <h2 id="maintenance" align="center"><br/><br/>🔧  Maintenance  🔧</h2>
-  There are currently no parts of the code under maintenance.
-  <br/>
-  You can quickly check the 
-  <a href="#top">status of the project</a>
-   at the top of the page.
+  There are currently no parts of the code under maintenance. You can quickly check the <a href="#top">status of the project</a> at the top of the page.
   <br/>
   <br/>
-  This section details which parts of the code are under 
-  <br/>
-  maintenance and for what reason.
+  This section details which parts of the code are under maintenance and for what reason.
   <br/>
   <br/>
   <h3 id="changelog" align="center">📟  Changelog  📟</h3>
@@ -373,7 +367,6 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
     <li><a href="#authors-and-copyright">Authors and Copyright</a></li>
     <br/>
   </ul>
-  <br/>
   The <a href="#general-license">General License</a> indicates the base license chosen for the code.
   <br/>
   While <a href="#authors-and-copyright">Authors and Copyright</a> indicates who are the authors and who owns the copyright of the code.
@@ -385,19 +378,12 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <i>Version 3, 29 June 2007</i>
   <br/>
   <br/>
-  <i>Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/></i>
-  <br/>
-  <i>Everyone is permitted to copy and distribute verbatim copies</i>
-  <br/>
-  <i>of this license document, but changing it is not allowed.</i>
+  <i>Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</i>
   <br/>
   <br/>
   <i>Preamble</i>
   <br/>
-  <i>The GNU General Public License is a free, copyleft license for</i>
-  <br/>
-  <i>software and other kinds of works.</i>
-  <br/>
+  <i>The GNU General Public License is a free, copyleft license for software and other kinds of works.</i>
   <br/>
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>License Documentation »</strong></a>
   <br/>
@@ -405,43 +391,28 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <h3 id="authors-and-copyright" align="center"><br/>✏️  Authors and Copyright  ✏️</h3>
   👨🏽‍💻: <strong>Pietrobon Andrea</strong>
   <br/>
-  🌐: 
-  <a href="https://www.pietrobonandrea.com">www.pietrobonandrea.com</a>
+  🌐: <a href="https://www.pietrobonandrea.com">www.pietrobonandrea.com</a>
   <br/>
   <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" align="center">:
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
-  🗄:
-  <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
+  🗄:<a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
   <br/>
   <br/>
   <br/>
-  My name is <strong>Pietrobon Andrea</strong>,
-  <br/>
-  a computer engineering student at the 
-  <br/>
+  My name is <strong>Pietrobon Andrea</strong>, a computer engineering student at the 
   <img src="https://upload.wikimedia.org/wikipedia/it/thumb/5/53/Logo_Università_Padova.svg/800px-Logo_Università_Padova.svg.png"  width="30" height="30" align="center"> University of Padua (🇮🇹).
   <br/>
   <br/>
-  My passion turns towards <strong>AI</strong> and <strong>ML</strong>.
-  <br/>
-  I have learned and worked in different sectors that have allowed me to gain skills 
-  <br/>
-  in different fields, such as IT and industrial design.
+  My passion turns towards <strong>AI</strong> and <strong>ML</strong>. I have learned and worked in different sectors that have allowed me to gain skills in different fields, such as IT and industrial design.
   <br/>
   <br/>
-  To find out more, visit my 
-  <br/>
-  <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
+  To find out more, visit my <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
   <br/>
   <br/>
-  The license of this repo as indicated in the 
-  <a href="#general-license">general license</a> section is the 
+  The license of this repo as indicated in the <a href="#general-license">general license</a> section is the GNU General Public License v3.0
   <br/>
-  GNU General Public License v3.0
-  <br/>
-  For more details visit the 
-  <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>licensing page »</strong></a>
+  For more details visit the <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>licensing page »</strong></a>
   <br/>
   <br/>
   <strong>The Copyright (C) of this project is held exclusively by my person.</strong>
