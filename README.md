@@ -72,9 +72,7 @@
   <strong>You can find other recommended components, cheaper versions and for your region<a href="https://amzn.to/3yMvIJ1">here  »</strong></a>
   <br/>
   <br/>
-  <strong>ATTENTION</strong>
-  <br/>
-  the size of the product table is such as to make it prohibitive to use with Arduino Uno. This project can only be replicated if you have a higher power board, such as the arduino mega 2560, which has 256k of memory instead of the 32k of the Arduino uno.
+  <strong>ATTENTION:</strong> The size of the product table is such as to make it prohibitive to use with Arduino Uno. This project can only be replicated if you have a higher power board, such as the arduino mega 2560, which has 256k of memory instead of the 32k of the Arduino uno.
   <br/>
   <br/>
   Currently the supported ingredients are as follows:
@@ -91,7 +89,6 @@
   <h2 id="made-in" align="center">🛠  Built in  🛠</h2>
   To carry out this project 3 libraries were used
   <br/>
-  <br/>
   <ul>
     <li><a href="TO ADD">Scale</a></li>
     <li><a href="TO ADD">Keypad</a></li>
@@ -99,10 +96,7 @@
   </ul>
   <br/>
   <br/>
-  Obviously the language used is that of
-  <br/>
-  <br/>
-  <a href="https://www.arduino.cc">Arduino</a>
+  Obviously the language used is that of <a href="https://www.arduino.cc">Arduino</a>
   <br/>
   <br/>
   <p align="right"><a href="#top">⇧</a></p>
