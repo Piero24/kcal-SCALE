@@ -111,15 +111,15 @@
 
 <div>
   <h2 id="index" align="center"><br/>📋  Index  📋</h2>
-  <h4>➡️%20%20<a href="#prerequisites">Prerequisites</a></h4>
-  <h4>➡️<a href="#how-to-start">How to Start</a></h4>
-  <h4>➡️<a href="#structure-of-the-project">Structure of the Project</a></h4>
-  <h4>➡️<a href="#roadmap">Roadmap</a></h4>
-  <h4>➡️<a href="#responsible-disclosure">Responsible Disclosure</a></h4>
-  <h4>➡️<a href="#report-a-bug">Report a Bug</a></h4>
-  <h4>➡️<a href="#maintenance">Maintenance</a></h4>
-  <h4>➡️<a href="#license">License</a></h4>
-  <h4>➡️<a href="#third-party-licenses">Third Party Licenses</a></h4>
+  <h4>➡️ <a href="#prerequisites">Prerequisites</a></h4>
+  <h4>➡️ <a href="#how-to-start">How to Start</a></h4>
+  <h4>➡️ <a href="#structure-of-the-project">Structure of the Project</a></h4>
+  <h4>➡️ <a href="#roadmap">Roadmap</a></h4>
+  <h4>➡️ <a href="#responsible-disclosure">Responsible Disclosure</a></h4>
+  <h4>➡️ <a href="#report-a-bug">Report a Bug</a></h4>
+  <h4>➡️ <a href="#maintenance">Maintenance</a></h4>
+  <h4>➡️ <a href="#license">License</a></h4>
+  <h4>➡️ <a href="#third-party-licenses">Third Party Licenses</a></h4>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
@@ -356,46 +356,30 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
   <br/>
   <p align="right"><a href="#top">⇧</a></p>
-</di>
-
+</div>
 
 
  --- 
  
 
-
+<div>
  <h2 id="license" align="center"><br/><br/><br/>🔍  License  🔍</h2>
-
-<p align="center">
   The licensing section is divided into:
   <br/>
   <br/>
-  - <a href="#general-license">General License</a>
+  <ul>
+    <li><a href="#general-license">General License</a></li>
+    <br/>
+    <li><a href="#authors-and-copyright">Authors and Copyright</a></li>
+    <br/>
+  </ul>
   <br/>
-  - <a href="#authors-and-copyright">Authors and Copyright</a>
+  The <a href="#general-license">General License</a> indicates the base license chosen for the code.
+  <br/>
+  While <a href="#authors-and-copyright">Authors and Copyright</a> indicates who are the authors and who owns the copyright of the code.
   <br/>
   <br/>
-  The 
-  <a href="#general-license">General License</a> 
-   indicates the base license chosen for the code.
-  <br/>
-  While 
-  <a href="#authors-and-copyright">Authors and Copyright</a> 
-   indicates who are the authors and who owns the copyright of the code.
-  <br/>
-</p>
-
-<br/>
-
-<!--
-*** To choose the licenses you can look at the following links.
-*** https://choosealicense.com/
-*** https://github.com/teamdigitale/licenses
--->
-
-<h3 id="general-license" align="center"><br/>🖋  General License  🖋</h3>
-
-<p align="center">
+  <h3 id="general-license" align="center"><br/>🖋  General License  🖋</h3>
   <strong>GNU GENERAL PUBLIC LICENSE</strong>
   <br/>
   <i>Version 3, 29 June 2007</i>
@@ -417,20 +401,8 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/LICENSE"><strong>License Documentation »</strong></a>
   <br/>
-</p>
-
-<br/>
-
-<!--
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="390" height="292">
-</p>
- 
--->
-
-<h3 id="authors-and-copyright" align="center"><br/>✏️  Authors and Copyright  ✏️</h3>
-
-<p align="center">
+  <br/>
+  <h3 id="authors-and-copyright" align="center"><br/>✏️  Authors and Copyright  ✏️</h3>
   👨🏽‍💻: <strong>Pietrobon Andrea</strong>
   <br/>
   🌐: 
@@ -473,20 +445,12 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <br/>
   <strong>The Copyright (C) of this project is held exclusively by my person.</strong>
-</p>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
-<p align="right"><a href="#top">⇧</a></p>
 
-
-<!--
- ***This operation could be particularly long or laborious to report and therefore it is possible to avail
- *** of some automatic support tools.
- ***https://fossa.com/pricing/
--->
-
-<h2 id="third-party-licenses" align="center"><br/>📌  Third Party Licenses  📌</h2>
-
-<p align="center">
+<div>
+  <h2 id="third-party-licenses" align="center"><br/>📌  Third Party Licenses  📌</h2>
   In the event that the software uses third-party components for its operation, 
   <br/>
   the individual licenses are indicated in the following section.
@@ -495,25 +459,23 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <strong>Software list:</strong>
   <br/>
   <table align="center">
-  <tr  align="center">
-    <th>Software</th>
-    <th>License owner</th> 
-    <th>License type</th> 
-    <th>Link</th>
-    <th>Note</th>
-  </tr>
-  <tr  align="center">
-    <td>None</td>
-    <td></td> 
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
+    <tr  align="center">
+      <th>Software</th>
+      <th>License owner</th> 
+      <th>License type</th> 
+      <th>Link</th>
+      <th>Note</th>
+    </tr>
+    <tr  align="center">
+      <td>None</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
 ---
