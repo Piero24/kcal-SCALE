@@ -111,15 +111,15 @@
 
 <div>
   <h2 id="index" align="center"><br/>📋  Index  📋</h2>
-  <h4><a href="#prerequisites">Prerequisites</a></h4>
-  <h4><a href="#how-to-start">How to Start</a></h4>
-  <h4><a href="#structure-of-the-project">Structure of the Project</a></h4>
-  <h4><a href="#roadmap">Roadmap</a></h4>
-  <h4><a href="#responsible-disclosure">Responsible Disclosure</a></h4>
-  <h4><a href="#report-a-bug">Report a Bug</a></h4>
-  <h4><a href="#maintenance">Maintenance</a></h4>
-  <h4><a href="#license">License</a></h4>
-  <h4><a href="#third-party-licenses">Third Party Licenses</a></h4>
+  <h4>➡️  <a href="#prerequisites">Prerequisites</a></h4>
+  <h4>➡️  <a href="#how-to-start">How to Start</a></h4>
+  <h4>➡️  <a href="#structure-of-the-project">Structure of the Project</a></h4>
+  <h4>➡️  <a href="#roadmap">Roadmap</a></h4>
+  <h4>➡️  <a href="#responsible-disclosure">Responsible Disclosure</a></h4>
+  <h4>➡️  <a href="#report-a-bug">Report a Bug</a></h4>
+  <h4>➡️  <a href="#maintenance">Maintenance</a></h4>
+  <h4>➡️  <a href="#license">License</a></h4>
+  <h4>➡️  <a href="#third-party-licenses">Third Party Licenses</a></h4>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
