@@ -360,12 +360,10 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
  <h2 id="license" align="center"><br/><br/><br/>🔍  License  🔍</h2>
   The licensing section is divided into:
   <br/>
-  <br/>
   <ul>
     <li><a href="#general-license">General License</a></li>
     <br/>
     <li><a href="#authors-and-copyright">Authors and Copyright</a></li>
-    <br/>
   </ul>
   The <a href="#general-license">General License</a> indicates the base license chosen for the code.
   <br/>
