@@ -13,12 +13,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
-<!--
-*** You can make other badges here
-*** [shields.io](https://shields.io/)
-*** or here
-*** [CircleCI](https://circleci.com/)
--->
+
 <br/>
 
 <!-- Working ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
@@ -57,24 +52,21 @@
 
 
 
-<h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
-          
-<p align="center">
+<div>
+  <br/>
+  <br/>
+  <h2 id="itroduction" align="center">📔  Itroduction  📔</h2>        
   The balance allows you to weigh the calories of an entire recipe by adding the weights of the calories of each individual ingredient.
   <br/>
   The project was carried out with the following components:
   <br/>
   <br/>
-</p>
-
-<ul align="center">
-  <li><a href="https://amzn.to/3G95Vg4">Arduino Mega 2560</a></li>
-  <li><a href="https://amzn.to/3wIDXmX">Weight sensor</a></li>
-  <li><a href="https://amzn.to/3wzVfDG">Numeric keypad</a> (16-key)</li>
-  <li><a href="https://amzn.to/3yMvIJ1">Display 2004</a></li>
-</ul>
-
-<p align="center">
+  <ul align="center">
+    <li><a href="https://amzn.to/3G95Vg4">Arduino Mega 2560</a></li>
+    <li><a href="https://amzn.to/3wIDXmX">Weight sensor</a></li>
+    <li><a href="https://amzn.to/3wzVfDG">Numeric keypad</a> (16-key)</li>
+    <li><a href="https://amzn.to/3yMvIJ1">Display 2004</a></li>
+  </ul>
   <br/>
   <br/>
   <strong>You can find other recommended components, cheaper versions and for your region</strong>
@@ -95,22 +87,23 @@
   Currently the supported ingredients are as follows:
   <br/>
   <br/>
-</p>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
-
-
-<h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
   
-<p align="center">
+<div>
+  <br/>
+  <br/>
+  <h2 id="made-in" align="center">🛠  Built in  🛠</h2>
   To carry out this project 3 libraries were used
   <br/>
   <br/>
-  <a href="TO ADD">Scale</a>
-  •
-  <a href="TO ADD">Keypad</a>
-  •
-  <a href="TO ADD">Display</a>
+  <ul>
+    <li><a href="TO ADD">Scale</a></li>
+    <li><a href="TO ADD">Keypad</a></li>
+    <li><a href="TO ADD">Display</a></li>
+  </ul>
   <br/>
   <br/>
   Obviously the language used is that of
@@ -118,65 +111,44 @@
   <br/>
   <a href="https://www.arduino.cc">Arduino</a>
   <br/>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="index" align="center"><br/>📋  Index  📋</h2>
-
-<p align="center">
-  <h4 align="center">
-    <a href="#prerequisites">Prerequisites</a>
-  </h4>
-  <h4 align="center">
-    <a href="#how-to-start">How to Start</a>
-  </h4>
-  <h4 align="center">
-    <a href="#structure-of-the-project">Structure of the Project</a>
-  </h4>
-  <h4 align="center">
-    <a href="#roadmap">Roadmap</a>
-  </h4>
-  <h4 align="center">
-    <a href="#responsible-disclosure">Responsible Disclosure</a>
-  </h4>
-  <h4 align="center">
-    <a href="#report-a-bug">Report a Bug</a>
-  </h4>
-  <h4 align="center">
-    <a href="#maintenance">Maintenance</a>
-  </h4>
-  <h4 align="center">
-    <a href="#license">License</a>
-  </h4>
-  <h4 align="center">
-    <a href="#third-party-licenses">Third Party Licenses</a>
-  </h4>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
+  <br/>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
 
-<h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
+<div>
+  <h2 id="index" align="center"><br/>📋  Index  📋</h2>
+  <h4><a href="#prerequisites">Prerequisites</a></h4>
+  <h4><a href="#how-to-start">How to Start</a></h4>
+  <h4><a href="#structure-of-the-project">Structure of the Project</a></h4>
+  <h4><a href="#roadmap">Roadmap</a></h4>
+  <h4><a href="#responsible-disclosure">Responsible Disclosure</a></h4>
+  <h4><a href="#report-a-bug">Report a Bug</a></h4>
+  <h4><a href="#maintenance">Maintenance</a></h4>
+  <h4><a href="#license">License</a></h4>
+  <h4><a href="#third-party-licenses">Third Party Licenses</a></h4>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
-<p align="center"
+
+<div>
+  <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
   <ol>
-  <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
-  <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
-  <li>Download the latest version of these package</li>
-  <li>Milk</li>
-</ol>
+    <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
+    <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
+    <li>Download the latest version of these package</li>
+    <li>Milk</li>
+  </ol>
   This is an example of how to list the things needed to use the software and how to install them.
   
   ```
   Pre-requisites section
   ```
-</p>
-  
-<p align="right"><a href="#top">⇧</a></p>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
+
+
 
 
 
