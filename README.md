@@ -87,14 +87,19 @@
   <br/>
   <br/>
   <h2 id="made-in" align="center">🛠  Built in  🛠</h2>
-  To carry out this project 3 libraries were used
+  If you replicate this project with different components the required libraries may be different. For example, using a different numeric keypad with fewer keys may require not only different libraries but also a change to some parts of the code.
+  <br/>
+  Below and in the appropriate section there are links to the libraries used.
+  <br/>
+  In the code, however, you will find the version used at the time of the upload, which may be different from the current one.
+  <br/>
+  To carry out this project I used 3 libraries:
   <br/>
   <ul>
     <li><a href="TO ADD">Scale</a></li>
     <li><a href="TO ADD">Keypad</a></li>
     <li><a href="TO ADD">Display</a></li>
   </ul>
-  <br/>
   <br/>
   Obviously the language used is that of <a href="https://www.arduino.cc">Arduino</a>
   <br/>
