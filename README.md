@@ -69,7 +69,7 @@
   </ul>
   <br/>
   <br/>
-  <strong>You can find other recommended components, cheaper versions and for your region<a href="https://amzn.to/3yMvIJ1">here  »</strong></a>
+  <strong>You can find other recommended components, cheaper versions and for your region <a href="https://amzn.to/3yMvIJ1">here  »</strong></a>
   <br/>
   <br/>
   <strong>ATTENTION:</strong> The size of the product table is such as to make it prohibitive to use with Arduino Uno. This project can only be replicated if you have a higher power board, such as the arduino mega 2560, which has 256k of memory instead of the 32k of the Arduino uno.
@@ -288,31 +288,22 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 <p align="right"><a href="#top">⇧</a></p>
 
 
-
+<div>
 <h2 id="responsible-disclosure" align="center"><br/><br/>📮  Responsible Disclosure  📮</h2>
-
-<p align="center">
   We assume no responsibility for an improper use of this code and everything related to it.
   <br/>
-  We do not assume any responsibility for damage caused to people and / or objects in the use of the code.
+  We do not assume any responsibility for damage caused to people and/or objects in the use of the code.
   <br/>
   <strong>By using this code even in a small part, the developers are declined from any responsibility.</strong>
   <br/>
   <br/>
   It is possible to have more information by viewing the following links:
   <br/>
-  <a href="#code-of-conduct"><strong>Code of conduct</strong></a>
-   • 
+  <a href="#code-of-conduct"><strong>Code of conduct</strong></a> • 
   <a href="#license"><strong>License</strong></a>
-</p>
-
-
-
- <!-- https://www.contributor-covenant.org/ -->
-
-<h3 id="code-of-conduct" align="center"><br/><br/>📜  Code of conduct  📜</h3>
-
-<p align="center">
+  <br/>
+  <br/>
+  <h3 id="code-of-conduct" align="center"><br/><br/>📜  Code of conduct  📜</h3>
   As members, collaborators and leaders we are committed to performance participation in our community a harassment-free experience for all, regardless of age, size, visible or invisible disability, ethnicity, sexual characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, appearance, race, caste, color, religion or identity and sexual orientation.
   <br/>
   We are committed to acting and interacting in ways that help create an open community, welcoming, diverse, inclusive and healthy.
@@ -321,57 +312,32 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   The complete version of the code of conduct can be viewed at the following link:
   <br/>
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
-</p>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
-
-<!--
-***Template `ISSUE-TEMPLATE.md`
-***https://github.com/stevemao/github-issue-templates
--->
-
-<h2 id="report-a-bug"  align="center"><br/><br/>🐛  Bug and Feature 🐛</h2>
-
-<p align="center">
-  To <strong>report a bug</strong> or to request 
-  <br/>
-  the implementation of <strong>new features</strong>,
-  <br/>
-  it is strongly recommended to use the 
-  <br/>
+<div>
+  <h2 id="report-a-bug"  align="center"><br/><br/>🐛  Bug and Feature 🐛</h2>
+  To <strong>report a bug</strong> or to request the implementation of <strong>new features</strong>, it is strongly recommended to use the 
   <a href="https://github.com/Piero24/kcal-SCALE/issues"><strong>ISSUES tool from Github »</strong></a>
   <br/>
   <br/>
-  Here you may already find the answer to the problem you have encountered,
-  <br/>
-  in case it has already happened to other people.
-  <br/>
-  Otherwise you can report the bugs found.
+  Here you may already find the answer to the problem you have encountered, in case it has already happened to other people. Otherwise you can report the bugs found.
   <br/>
   <br/>
-  <strong>!! ATTENTION !! </strong>
-  <br/>
-  </strong>To speed up the resolution of problems, </strong>
-  <br/>
-  <strong> it is recommended to answer all the questions </strong>
-  <br/>
-  <strong>present in the request phase in an exhaustive manner.</strong>
+  <strong>ATTENTION : To speed up the resolution of problems, it is recommended to answer all the questions present in the request phase in an exhaustive manner.</strong>
   <br/>
   <br/>
-  (Even in the phase of requests for the implementation of new functions, 
-  <br/>
-  we ask you to better specify the reasons for the request 
-  <br/>
-  and what final result you want to obtain).
+  (Even in the phase of requests for the implementation of new functions, we ask you to better specify the reasons for the request and what final result you want to obtain).
   <br/>
   <br/>
-</p>
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
-  
-<h2 id="maintenance" align="center"><br/><br/>🔧  Maintenance  🔧</h2>
 
-<p align="center">
+ <div> 
+  <h2 id="maintenance" align="center"><br/><br/>🔧  Maintenance  🔧</h2>
   There are currently no parts of the code under maintenance.
   <br/>
   You can quickly check the 
@@ -382,40 +348,22 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   This section details which parts of the code are under 
   <br/>
   maintenance and for what reason.
-  
-</p>
-
- <br/>
-
-<h3 id="changelog" align="center"><br/>📟  Changelog  📟</h3>
-
-<p align="center">
-  Here you can find all the information regarding the fixes 
   <br/>
-  and implementations that took place in the various program reviews.
   <br/>
+  <h3 id="changelog" align="center">📟  Changelog  📟</h3>
+  Here you can find all the information regarding the fixes and implementations that took place in the various program reviews.
   <br/>
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
   <br/>
-</p>
+  <p align="right"><a href="#top">⇧</a></p>
+</di>
 
-<p align="right"><a href="#top">⇧</a></p>
-  
-  
-  
+
+
  --- 
  
- 
- 
- <!--
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="390" height="292">
-</p>
- 
--->
- 
- 
- 
+
+
  <h2 id="license" align="center"><br/><br/><br/>🔍  License  🔍</h2>
 
 <p align="center">
