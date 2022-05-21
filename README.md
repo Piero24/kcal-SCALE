@@ -61,7 +61,7 @@
   The project was carried out with the following components:
   <br/>
   <br/>
-  <ul align="center">
+  <ul>
     <li><a href="https://amzn.to/3G95Vg4">Arduino Mega 2560</a></li>
     <li><a href="https://amzn.to/3wIDXmX">Weight sensor</a></li>
     <li><a href="https://amzn.to/3wzVfDG">Numeric keypad</a> (16-key)</li>
