@@ -380,7 +380,6 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <i>Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</i>
   <br/>
-  <br/>
   <i>Preamble</i>
   <br/>
   <i>The GNU General Public License is a free, copyleft license for software and other kinds of works.</i>
@@ -399,15 +398,11 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   🗄:<a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
   <br/>
   <br/>
-  <br/>
   My name is <strong>Pietrobon Andrea</strong>, a computer engineering student at the 
   <img src="https://upload.wikimedia.org/wikipedia/it/thumb/5/53/Logo_Università_Padova.svg/800px-Logo_Università_Padova.svg.png"  width="30" height="30" align="center"> University of Padua (🇮🇹).
   <br/>
   <br/>
-  My passion turns towards <strong>AI</strong> and <strong>ML</strong>. I have learned and worked in different sectors that have allowed me to gain skills in different fields, such as IT and industrial design.
-  <br/>
-  <br/>
-  To find out more, visit my <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
+  My passion turns towards <strong>AI</strong> and <strong>ML</strong>. I have learned and worked in different sectors that have allowed me to gain skills in different fields, such as IT and industrial design. To find out more, visit my <a href="https://www.pietrobonandrea.com"><strong>website »</strong></a>
   <br/>
   <br/>
   The license of this repo as indicated in the <a href="#general-license">general license</a> section is the GNU General Public License v3.0
@@ -422,9 +417,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 
 <div>
   <h2 id="third-party-licenses" align="center"><br/>📌  Third Party Licenses  📌</h2>
-  In the event that the software uses third-party components for its operation, 
-  <br/>
-  the individual licenses are indicated in the following section.
+  In the event that the software uses third-party components for its operation, the individual licenses are indicated in the following section.
   <br/>
   <br/>
   <strong>Software list:</strong>
