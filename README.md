@@ -129,8 +129,13 @@
   <ol>
     <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
     <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
-    <li>Download the latest version of these package</li>
-    <li>Milk</li>
+    <li>Download the latest version of these package (keypad, lcd, scale)</li>
+    <ol>
+      <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
+      <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
+      <li>Download the latest version of these package (keypad, lcd, scale)</li>
+      <li>Milk</li>
+    </ol>
   </ol>
   This is an example of how to list the things needed to use the software and how to install them.
   
