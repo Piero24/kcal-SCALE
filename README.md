@@ -363,13 +363,36 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th>Note</th>
     </tr>
     <tr  align="center">
-      <td>None</td>
+      <td>Keypad</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
       <td></td>
+    </tr>
+    <tr  align="center">
+      <td>LCD I2C</td>
+      <td><a href="https://github.com/fmalpartida">fmalpartida</a></td>
+      <td><a href="https://github.com/fmalpartida/New-LiquidCrystal/blob/master/LICENSE.webarchive">link</a></td>
+      <td><a href="https://github.com/fmalpartida/New-LiquidCrystal">github</a></td>
       <td></td>
-      <td></td>
+    </tr>
+    <tr  align="center">
+      <td>Scale</td>
+      <td><a href="https://github.com/bogde">bodge</a></td>
+      <td><a href="https://github.com/bogde/HX711/blob/master/LICENSE">MIT</a></td>
+      <td><a href="https://github.com/bogde/HX711">scale</a></td>
       <td></td>
     </tr>
   </table>
+  <p>
+    <br/>
+    <br/>
+    A special thanks also goes to <a href="https://www.youtube.com/watch?v=Rk3uGoyE4gs">Giocarduino</a> from whom I took the table of ingredients and from whom I took inspiration for the project.
+    <br/>
+    Go and see his <a href="https://www.youtube.com/watch?v=Rk3uGoyE4gs">Youtube channel</a> for further information and guides on the world of Arduino.
+    <br/>
+    <br/>
+  </p>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
