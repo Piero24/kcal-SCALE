@@ -136,122 +136,21 @@
       <li><a href="https://github.com/bogde/HX711">scale</a></li>
     </ol>
   </ol>
+  <br/>
+  <br/>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
 
+<div>
+  <h2 id="how-to-start" align="center"><br/>⚙️  How to Start  ⚙️</h2>
+  <br/>
+  <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/arduino.png">
+  <br/>
+  <br/>
+  <p align="right"><a href="#top">⇧</a></p>
 
-
-
-<h2 id="how-to-start" align="center"><br/>⚙️  How to Start  ⚙️</h2>
-
-<img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/arduino.png">
-
-<p align="center"> 
-  <i>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external 
-  dependencies or services.</i>
-</p>
-<br/>
-<h3 id="windows" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" width="15" height="15">
-  Windows
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-<h3 id="macos" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="15" height="15">
-  macOS
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<h3 id="linux" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="15" height="15">
-  Linux
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
+</div>
 
 
 <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
