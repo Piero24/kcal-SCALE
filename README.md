@@ -166,12 +166,12 @@
 <div>
   <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
   <p>
-    Now that everything is connected we simply have to import the code into arduino.
+    Now that everything is connected we simply have to import the code into Arduino.
     <ol>
-      <li>We import the 3 folders (keypad, lcd, scale) into the libraries folder</li>
+      <li>Import the 3 previously downloaded folders into the libraries folder (keypad, lcd, scale)</li>
       <li>Let's open the kcal-SCALE.ino file in the Arduino IDE</li>
-      <li>We connect the board to the pc/mac</li>
-      <li>In the tool section we select the type of board we have, its processor and the pc port to which it is connected.</li>
+      <li>Connect the board to the pc/mac</li>
+      <li>In the tool section select the type of board you have, the processor and the pc port to which it is connected.</li>
       <li>Let's upload the file</li>
     </ol>
     <br/>
