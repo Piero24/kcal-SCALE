@@ -136,12 +136,6 @@
       <li><a href="https://github.com/bogde/HX711">scale</a></li>
     </ol>
   </ol>
-  
-  This is an example of how to list the things needed to use the software and how to install them.
-  
-  ```
-  Pre-requisites section
-  ```
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
