@@ -17,9 +17,9 @@
 <br/>
 
 <!-- Working ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
-**Project Status:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
+**Project Status:** Working ✅ <a href="#maintenance">⇩</a>
 <br/>
-**Percentage Completely:** 40% 🔋 <a href="#roadmap">⇩</a>
+**Percentage Completely:** 100% 🔋 <a href="#roadmap">⇩</a>
 <br/>
 <br/>
 
@@ -214,13 +214,9 @@
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
 
 - [x] Upload code
-- [x] README file
-- [x] Multi-language README
-    - [x] Inglese
-    - [x] Italaino
-- [x] Point 1
-- [ ] Point 2
-- [ ] Point 3
+- [x] Add Ingredients
+- [x] Add Ingredients 2
+- [x] Add Ingredients 3
 
 See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full list of proposed features (and known issues).
 
@@ -237,7 +233,6 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <br/>
   It is possible to have more information by viewing the following links:
-  <br/>
   <a href="#code-of-conduct"><strong>Code of conduct</strong></a> • 
   <a href="#license"><strong>License</strong></a>
   <br/>
@@ -249,7 +244,6 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <br/>
   The complete version of the code of conduct can be viewed at the following link:
-  <br/>
   <a href="https://github.com/Piero24/kcal-SCALE/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
