@@ -149,9 +149,12 @@
     <br/>
     First of all we have to connect all the components to the urduino as indicated in the diagram below.
     <br/>
+    <br/>
     You can change the connections to some ports if you like. The important thing in this case is to make the necessary changes also within the code.
     <br/>
   </p>
+  <br/>
+  <br/>
   <br/>
   <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/arduino.png">
   <br/>
