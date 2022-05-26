@@ -144,12 +144,19 @@
 
 <div>
   <h2 id="how-to-start" align="center"><br/>⚙️  How to Start  ⚙️</h2>
+  <p>
+    There are no major difficulties in the realization of this project since the code for its operation is already written.
+    <br/>
+    First of all we have to connect all the components to the urduino as indicated in the diagram below.
+    <br/>
+    You can change the connections to some ports if you like. The important thing in this case is to make the necessary changes also within the code.
+    <br/>
+  </p>
   <br/>
   <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/arduino.png">
   <br/>
   <br/>
   <p align="right"><a href="#top">⇧</a></p>
-
 </div>
 
 
