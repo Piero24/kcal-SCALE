@@ -130,11 +130,11 @@
     <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
     <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
     <li>Download the latest version of these package:</li>
-    <ol>
+    <ul>
       <li><a href="http://playground.arduino.cc/Code/Keypad">keypad</a></li>
       <li><a href="https://github.com/fmalpartida/New-LiquidCrystal">lcd</a></li>
       <li><a href="https://github.com/bogde/HX711">scale</a></li>
-    </ol>
+    </ul>
   </ol>
   <br/>
   <br/>
