@@ -167,16 +167,16 @@
   <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
   <p>
     Now that everything is connected we simply have to import the code into Arduino.
-    <ol>
+    <ul>
       <li>Import the 3 previously downloaded folders into the libraries folder (keypad, lcd, scale)</li>
       <li>Let's open the kcal-SCALE.ino file in the Arduino IDE</li>
       <li>Connect the board to the pc/mac</li>
-      <li>In the tool section select the type of board you have, the processor and the pc port to which it is connected.
+      <li>In the tool section select the type of board you have, the processor and the pc port to which it is connected
       <br/>
       <br/>
       <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/tool-bar.png"></li>
       <li>Let's upload the file to the board</li>
-    </ol>
+    </ul>
     <br/>
     <br/>
     <p align="center"><strong>DONE !!!</strong></p>
@@ -191,17 +191,18 @@
     <strong>User manual:</strong>
     <br/>
     <br/>
-    <strong>numeric keys:</strong> selection of food category and food
-    <br/>
-    <br/>
-    <strong>non-numeric keys:</strong>
-    <br/>
-    <strong>"*"</strong> = confirm deletion
-    <strong>"#"</strong> = cancel the delete request
-    <strong>"A"</strong> = clear, clears the last selection and asks for the food category again for the product on the plate
-    <strong>"B"</strong> = adds the ingredient on the plate to the recipe
-    <strong>"C"</strong> = elimination of the last added ingredient from the recipe
-    <strong>"D"</strong> = cleans the system and prepares it for a new recipe
+    <ul>
+      <li><strong>numeric keys:</strong> selection of food category and food</li>
+      <li><strong>non-numeric keys:</strong></li>
+      <ul>
+        <li><strong>"*"</strong> = confirm deletion</li>
+        <li><strong>"#"</strong> = cancel the delete request</li>
+        <li><strong>"A"</strong> = clear, clears the last selection and asks for the food category again for the product on the plate</li>
+        <li><strong>"B"</strong> = adds the ingredient on the plate to the recipe</li>
+        <li><strong>"C"</strong> = elimination of the last added ingredient from the recipe</li>
+        <li><strong>"D"</strong> = cleans the system and prepares it for a new recipe</li>
+      </ul>
+    </ul>
   </p>
   <br/>
   <br/>
