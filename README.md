@@ -147,7 +147,7 @@
   <p>
     There are no major difficulties in the realization of this project since the code for its operation is already written.
     <br/>
-    First of all we have to connect all the components to the urduino as indicated in the diagram below.
+    First of all we have to connect all the components to the arduino as indicated in the diagram below.
     <br/>
     <br/>
     You can change the connections to some ports if you like. The important thing in this case is to make the necessary changes also within the code.
@@ -163,23 +163,34 @@
 </div>
 
 
-<h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
-
-<p align="center">
-  This section explains the structure of directories and branches in order to easily guide the user through the code.
+<div>
+  <h2 id="structure-of-the-project" align="center"><br/><br/>💻  Structure of the Project  💻</h2>
+  <p>
+    Now that everything is connected we simply have to import the code into arduino.
+    <ol>
+      <li>We import the 3 folders (keypad, lcd, scale) into the libraries folder</li>
+      <li>Let's open the kcal-SCALE.ino file in the Arduino IDE</li>
+      <li>We connect the board to the pc/mac</li>
+      <li>In the tool section we select the type of board we have, its processor and the pc port to which it is connected.</li>
+      <li>Let's upload the file</li>
+    </ol>
+    <br/>
+    <br/>
+    <p align="center"><strong>DONE !!!</strong></p>
+    <br/>
+    <br/>
+    Now we can disconnect the board from the pc and use the battery to power it.
+    <br/>
+    This is a quick explanation of the main commands instead.
+    <br/>
+  </p>
   <br/>
   <br/>
-  We have reached the last part of the central body concerning our project.
-  <br/>
-  From the next point we will indicate all the additional information such as: Contribute, Licenses etc...
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
+  <p align="right"><a href="#top">⇧</a></p>
+</div>
 
 
 ---
-  
 
 
 <h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
