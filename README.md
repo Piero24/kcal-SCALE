@@ -172,6 +172,7 @@
       <li>Let's open the kcal-SCALE.ino file in the Arduino IDE</li>
       <li>Connect the board to the pc/mac</li>
       <li>In the tool section select the type of board you have, the processor and the pc port to which it is connected.</li>
+      <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/tool-bar.png">
       <li>Let's upload the file</li>
     </ol>
     <br/>
