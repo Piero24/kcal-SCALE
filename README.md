@@ -134,7 +134,6 @@
     <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
     <li>Download the latest version of these package:</li>
     <br/>
-    <br/>
     <ul>
       <li><a href="http://playground.arduino.cc/Code/Keypad">keypad</a></li>
       <li><a href="https://github.com/fmalpartida/New-LiquidCrystal">lcd</a></li>
