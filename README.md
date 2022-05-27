@@ -414,7 +414,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th>Note</th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Arduino Mega 2560</a></th>
+      <th><a href="https://amzn.to/3wQVhr2">Arduino Mega 2560</a></th>
       <th><a href="">Arduino Mega 2560</a></th>
       <th><a href="">Arduino Mega 2560</a></th>
       <th><a href="https://amzn.to/3luUYf6">Arduino Mega 2560</a></th>
@@ -423,7 +423,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Arduino Mega REV3</a></th>
+      <th><a href="https://amzn.to/3LY0JMZ">Arduino Mega REV3</a></th>
       <th><a href="">Arduino Mega REV3</a></th>
       <th><a href="">Arduino Mega REV3</a></th>
       <th><a href="https://amzn.to/3wGjnnc">Arduino Mega REV3</a></th>
@@ -432,7 +432,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th> 
     </tr>
     <tr  align="center">
-      <th><a href="">ELEGOO Mega R3</a></th>
+      <th><a href="https://amzn.to/3wOaOI9">ELEGOO Mega R3</a></th>
       <th><a href="">ELEGOO Mega R3</a></th>
       <th><a href="">ELEGOO Mega R3</a></th>
       <th><a href="https://amzn.to/3LCEz2X">ELEGOO Mega R3</a></th>
@@ -441,7 +441,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3wUqx8N">Weight sensor</a></th>
       <th><a href="">Weight sensor</a></th>
       <th><a href="">Weight sensor</a></th>
       <th><a href="https://amzn.to/3a3fmRZ">Weight sensor</a></th>
@@ -450,7 +450,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3lPzr12">Weight sensor</a></th>
       <th><a href="">Weight sensor</a></th>
       <th><a href="">Weight sensor</a></th>
       <th><a href="https://amzn.to/3MCLLxg">Weight sensor</a></th>
@@ -459,7 +459,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Keypad</a></th>
+      <th><a href="https://amzn.to/3GwZQdl">Keypad</a></th>
       <th><a href="">Keypad</a></th>
       <th><a href="">Keypad</a></th>
       <th><a href="https://amzn.to/3luViL1">Keypad</a></th>
@@ -468,7 +468,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th> 
     </tr>
     <tr  align="center">
-      <th><a href=""> 2004 20x4 LCD</a></th>
+      <th><a href="https://amzn.to/39XnQKs"> 2004 20x4 LCD</a></th>
       <th><a href=""> 2004 20x4 LCD</a></th>
       <th><a href=""> 2004 20x4 LCD</a></th>
       <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD</a></th>
@@ -477,7 +477,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th> 
     </tr>
     <tr  align="center">
-      <th><a href="">Cable</a></th>
+      <th><a href="https://amzn.to/3Gs12ys">Cable</a></th>
       <th><a href="">Cable</a></th>
       <th><a href="">Cable</a></th>
       <th><a href="">Cable</a></th>
