@@ -172,8 +172,8 @@
   <p>
     Now that everything is connected we simply have to import the code into Arduino.
     <ul>
-      <li>Import the 3 previously downloaded folders into the libraries folder (keypad, lcd, scale)</li>
-      <li>Let's open the kcal-SCALE.ino file in the Arduino IDE</li>
+      <li>Import the 3 previously downloaded folders into the libraries folder (<strong>keypad</strong>, <strong>lcd</strong>, <strong>scale</strong>)</li>
+      <li>Let's open the <strong>scale_kcal.ino</strong> file in the <strong>Arduino IDE</strong></li>
       <li>Connect the board to the pc/mac</li>
       <li>In the tool section select the type of board you have, the processor and the pc port to which it is connected
       <br/>
