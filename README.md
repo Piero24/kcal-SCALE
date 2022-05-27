@@ -31,7 +31,7 @@
     <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
 </h1>
 
-> *<p align="center">A scale that, in addition to displaying the weight, also calculates also the number of kilocalories of the product it has on dish across an internal table, for then display them on a 4-line by 20-character display.*
+> *<p align="center">A scale that, in addition to displaying the weight, also calculates the number of kilocalories of the product it has on dish across an internal table, for then display them on a 4-line by 20-character display.*
   
 <p align="center">
     The Index for this project is available here
@@ -39,7 +39,7 @@
     <a href="#index"><strong>Explore the Index »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Piero24/kcal-SCALE">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=Rk3uGoyE4gs&t=2s">View Demo</a>
     •
     <a href="https://github.com/Piero24/kcal-SCALE/issues">Report Bug</a>
     •
@@ -47,9 +47,7 @@
   </p>
 
 
-
 ---
-
 
 
 <div>
@@ -69,7 +67,7 @@
   </ul>
   <br/>
   <br/>
-  <strong>You can find other recommended components, cheaper versions and for your region <a href="https://amzn.to/3yMvIJ1">here  »</strong></a>
+  <strong>You can find other recommended components, cheaper versions and for your region <a href="#recommended-components">here  »</strong></a>
   <br/>
   <br/>
   <strong>ATTENTION:</strong> The size of the product table is such as to make it prohibitive to use with Arduino Uno. This project can only be replicated if you have a higher power board, such as the arduino mega 2560, which has 256k of memory instead of the 32k of the Arduino uno.
@@ -96,12 +94,12 @@
   To carry out this project I used 3 libraries:
   <br/>
   <ul>
-    <li><a href="TO ADD">Scale</a></li>
+    <li><a href="https://github.com/bogde/HX711">Scale</a></li>
     <li><a href="TO ADD">Keypad</a></li>
-    <li><a href="TO ADD">Display</a></li>
+    <li><a href="https://github.com/fmalpartida/New-LiquidCrystal">Display</a></li>
   </ul>
   <br/>
-  Obviously the language used is that of <a href="https://www.arduino.cc">Arduino</a>
+  Obviously the language used is that of <a href="https://www.arduino.cc">Arduino</a> (C/C++)
   <br/>
   <br/>
   <p align="right"><a href="#top">⇧</a></p>
@@ -120,6 +118,7 @@
   <h4>➡️ <a href="#maintenance">Maintenance</a></h4>
   <h4>➡️ <a href="#license">License</a></h4>
   <h4>➡️ <a href="#third-party-licenses">Third Party Licenses</a></h4>
+  <h4>➡️ <a href="#recommended-components">Recommended Components</a></h4>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
@@ -127,7 +126,7 @@
 <div>
   <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
   <ol>
-    <li>All the harware components (you can find it <a href="https://www.arduino.cc/en/software">here</a>)</li>
+    <li>All the harware components you can find it <a href="#recommended-components">here</a></li>
     <li>Download the latest version of <a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
     <li>Download the latest version of these package:</li>
     <ul>
@@ -398,7 +397,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 
 
 <div>
-  <h2 id="third-party-licenses" align="center"><br/>📌  Recommended components  📌</h2>
+  <h2 id="recommended-components" align="center"><br/>📌  Recommended components  📌</h2>
   This is a list of the components suggested for the realization of the project.
   <br/>
   <br/>
