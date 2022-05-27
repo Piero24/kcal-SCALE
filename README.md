@@ -397,7 +397,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
 
 
 <div>
-  <h2 id="recommended-components" align="center"><br/>📌  Recommended components  📌</h2>
+  <h2 id="recommended-components" align="center"><br/>📌  Recommended Components  📌</h2>
   This is a list of the components suggested for the realization of the project.
   <br/>
   <br/>
