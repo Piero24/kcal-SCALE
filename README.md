@@ -426,7 +426,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th>
       <th></th>
       <th></th>
-      <th><a href="https://amzn.to/3wGjnnc">Arduino Mega 2560 REV3</a></th>
+      <th><a href="https://amzn.to/3wGjnnc">Arduino Mega REV3</a></th>
       <th></th>
       <th></th>
       <th></th> 
@@ -471,7 +471,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th>
       <th></th>
       <th></th>
-      <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD Module </a></th>
+      <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD</a></th>
       <th></th>
       <th></th>
       <th></th> 
