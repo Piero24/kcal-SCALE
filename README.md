@@ -405,13 +405,13 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <table align="center">
     <tr  align="center">
-      <th>United States</th>
-      <th>United Kingdom</th>
-      <th>France</th>
-      <th>Italy</th>
-      <th>Germany</th>
-      <th>Spain</th>
-      <th>Flag</th> 
+      <th>🇺🇸 United States 🇺🇸</th>
+      <th>🇬🇧 United Kingdom 🇬🇧</th>
+      <th>🇫🇷 France 🇫🇷</th>
+      <th>🇮🇹 Italy 🇮🇹</th>
+      <th>🇩🇪 Germany 🇩🇪</th>
+      <th>🇪🇸 Spain 🇪🇸</th>
+      <th>Note</th> 
     </tr>
     <tr  align="center">
       <th></th>
@@ -494,8 +494,10 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
       <th></th>
       <th>Note</th> 
     </tr>
-    
   </table>
+  <br/>
+  <br/>
+  *As an amazon affiliate, I may receive a commission from the links indicated
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
