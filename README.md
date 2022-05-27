@@ -76,6 +76,9 @@
   Currently the supported ingredients are as follows:
   <br/>
   <br/>
+  <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/Ingredients.pdf">
+  <br/>
+  <br/>
   <p align="right"><a href="#top">⇧</a></p>
 </div>
 
