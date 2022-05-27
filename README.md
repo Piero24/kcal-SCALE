@@ -405,43 +405,93 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <table align="center">
     <tr  align="center">
+      <th>US</th>
+      <th>UK</th>
+      <th>FR</th>
       <th>Italy</th>
+      <th>DE</th>
+      <th>ES</th>
       <th>Flag</th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3luUYf6">Arduino Mega 2560</a></th>
+      <th></th>
+      <th></th>
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3wGjnnc">Arduino Mega 2560 REV3</a></th>
+      <th></th>
+      <th></th>
       <th></th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3LCEz2X">ELEGOO Mega R3</a></th>
+      <th></th>
+      <th></th>
       <th></th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3a3fmRZ">Weight sensor</a></th>
+      <th></th>
+      <th></th>
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3MCLLxg">Weight sensor</a></th>
+      <th></th>
+      <th></th>
       <th></th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3luViL1">Keypad</a></th>
+      <th></th>
+      <th></th>
       <th></th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD Module </a></th>
+      <th></th>
+      <th></th>
       <th></th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th>Pruduct</th>
+      <th></th>
+      <th></th>
       <th>Note</th> 
     </tr>
     <tr  align="center">
+      <th></th>
+      <th></th>
+      <th></th>
       <th>Pruduct</th>
+      <th></th>
+      <th></th>
       <th>Note</th> 
     </tr>
     
