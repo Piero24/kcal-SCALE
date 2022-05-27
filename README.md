@@ -326,7 +326,7 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="30" height="30" align="center">:
   <a href="https://twitter.com/pietrobonandrea">@PietrobonAndrea</a>
   <br/>
-  🗄:<a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
+  🗄: <a href="https://github.com/Piero24/kcal-SCALE">kcal-SCALE</a>
   <br/>
   <br/>
   My name is <strong>Pietrobon Andrea</strong>, a computer engineering student at the 
