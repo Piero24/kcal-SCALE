@@ -53,6 +53,11 @@
 <div>
   <br/>
   <br/>
+  <img src="https://github.com/Piero24/kcal-SCALE/blob/main/icon/IMG_9966.jpeg">
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <h2 id="itroduction" align="center">📔  Itroduction  📔</h2>        
   The balance allows you to weigh the calories of an entire recipe by adding the weights of the calories of each individual ingredient.
   <br/>
