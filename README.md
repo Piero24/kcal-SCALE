@@ -368,10 +368,10 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
     </tr>
     <tr  align="center">
       <td>Keypad</td>
+      <td> Mark Stanley, Alexander Brevig</td>
+      <td> GNU GP v3.0 </td>
       <td> - </td>
-      <td> - </td>
-      <td> - </td>
-      <td></td>
+      <td>Arduino Library</td>
     </tr>
     <tr  align="center">
       <td>LCD I2C</td>
