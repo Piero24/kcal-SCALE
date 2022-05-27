@@ -405,12 +405,12 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
   <br/>
   <table align="center">
     <tr  align="center">
-      <th>🇺🇸 United States 🇺🇸</th>
-      <th>🇬🇧 United Kingdom 🇬🇧</th>
-      <th>🇫🇷 France 🇫🇷</th>
-      <th>🇮🇹 Italy 🇮🇹</th>
-      <th>🇩🇪 Germany 🇩🇪</th>
-      <th>🇪🇸 Spain 🇪🇸</th>
+      <th>🇺🇸 US 🇺🇸</th>
+      <th>🇬🇧 UK 🇬🇧</th>
+      <th>🇫🇷 FR 🇫🇷</th>
+      <th>🇮🇹 IT 🇮🇹</th>
+      <th>🇩🇪 DE 🇩🇪</th>
+      <th>🇪🇸 ES 🇪🇸</th>
       <th>Note</th> 
     </tr>
     <tr  align="center">
