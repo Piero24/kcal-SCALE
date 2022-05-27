@@ -420,74 +420,74 @@ See the [open issues](https://github.com/Piero24/kcal-SCALE/issues) for a full l
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3wQVhr2">Arduino Mega 2560</a></th>
-      <th><a href="">Arduino Mega 2560</a></th>
-      <th><a href="">Arduino Mega 2560</a></th>
+      <th> - </th>
+      <th> - </th>
       <th><a href="https://amzn.to/3luUYf6">Arduino Mega 2560</a></th>
-      <th><a href="">Arduino Mega 2560</a></th>
-      <th><a href="">Arduino Mega 2560</a></th>
+      <th><a href="https://amzn.to/3wVLFKz">Arduino Mega 2560</a></th>
+      <th> - </th>
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3LY0JMZ">Arduino Mega REV3</a></th>
-      <th><a href="">Arduino Mega REV3</a></th>
-      <th><a href="">Arduino Mega REV3</a></th>
+      <th><a href="https://amzn.to/3wPUCoM">Arduino Mega REV3</a></th>
+      <th><a href="https://amzn.to/3GxzqIr">Arduino Mega REV3</a></th>
       <th><a href="https://amzn.to/3wGjnnc">Arduino Mega REV3</a></th>
-      <th><a href="">Arduino Mega REV3</a></th>
-      <th><a href="">Arduino Mega REV3</a></th>
+      <th> - </th>
+      <th><a href="https://amzn.to/3t2iBQe">Arduino Mega REV3</a></th>
       <th></th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3wOaOI9">ELEGOO Mega R3</a></th>
-      <th><a href="">ELEGOO Mega R3</a></th>
-      <th><a href="">ELEGOO Mega R3</a></th>
+      <th><a href="https://amzn.to/3MX7e4f">SUNFOUNDER Mega</a></th>
+      <th><a href="https://amzn.to/3lPefYR">ELEGOO Mega R3</a></th>
       <th><a href="https://amzn.to/3LCEz2X">ELEGOO Mega R3</a></th>
-      <th><a href="">ELEGOO Mega R3</a></th>
-      <th><a href="">ELEGOO Mega R3</a></th>
+      <th><a href="https://amzn.to/3z0u8DF">ELEGOO Mega R3 (Black)</a></th>
+      <th><a href="https://amzn.to/3Gsz8lW">ELEGOO Mega R3</a></th>
       <th></th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3wUqx8N">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3z3oJvI">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3MWKlh8">Weight sensor</a></th>
       <th><a href="https://amzn.to/3a3fmRZ">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3GnVqFA">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3wUB1U9">Weight sensor</a></th>
       <th>(Raccomanded)</th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3lPzr12">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3lNoHQA">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3GpGXsF">Weight sensor</a></th>
       <th><a href="https://amzn.to/3MCLLxg">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
-      <th><a href="">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3lLTSfc">Weight sensor</a></th>
+      <th><a href="https://amzn.to/3LUGIqA">Weight sensor</a></th>
       <th></th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3GwZQdl">Keypad</a></th>
-      <th><a href="">Keypad</a></th>
-      <th><a href="">Keypad</a></th>
+      <th><a href="https://amzn.to/3lQMQFY">Keypad</a></th>
+      <th><a href="https://amzn.to/3akAxz3">Keypad</a></th>
       <th><a href="https://amzn.to/3luViL1">Keypad</a></th>
-      <th><a href="">Keypad</a></th>
-      <th><a href="">Keypad</a></th>
+      <th><a href="https://amzn.to/3lQVGUa">Keypad</a></th>
+      <th><a href="https://amzn.to/3MZY72D">Keypad</a></th>
       <th></th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/39XnQKs"> 2004 20x4 LCD</a></th>
-      <th><a href=""> 2004 20x4 LCD</a></th>
-      <th><a href=""> 2004 20x4 LCD</a></th>
+      <th><a href="https://amzn.to/3wPUDck"> 2004 20x4 LCD</a></th>
+      <th><a href="https://amzn.to/3wP6RmC"> 2004 20x4 LCD</a></th>
       <th><a href="https://amzn.to/3sLBk2j"> 2004 20x4 LCD</a></th>
-      <th><a href=""> 2004 20x4 LCD</a></th>
-      <th><a href=""> 2004 20x4 LCD</a></th>
+      <th><a href="https://amzn.to/3NG2901"> 2004 20x4 LCD</a></th>
+      <th><a href="https://amzn.to/3t2iHY6"> 2004 20x4 LCD</a></th>
       <th></th> 
     </tr>
     <tr  align="center">
       <th><a href="https://amzn.to/3Gs12ys">Cable</a></th>
-      <th><a href="">Cable</a></th>
-      <th><a href="">Cable</a></th>
-      <th><a href="">Cable</a></th>
-      <th><a href="">Cable</a></th>
-      <th><a href="">Cable</a></th>
+      <th><a href="https://amzn.to/39XWa8g">Cable</a></th>
+      <th><a href="https://amzn.to/3LV30st">Cable</a></th>
+      <th><a href="https://amzn.to/3LNokjy">Cable</a></th>
+      <th><a href="https://amzn.to/38sAnFs">Cable</a></th>
+      <th><a href="https://amzn.to/3NItezU">Cable</a></th>
       <th></th> 
     </tr>
   </table>
