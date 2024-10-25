@@ -58,7 +58,7 @@
   <br/>
   <br/>
   <br/>
-  <h2 id="itroduction" align="center">📔  Itroduction  📔</h2>        
+  <h2 id="introduction" align="center">📔  Introduction  📔</h2>        
   The balance allows you to weigh the calories of an entire recipe by adding the weights of the calories of each individual ingredient.
   <br/>
   The project was carried out with the following components:
